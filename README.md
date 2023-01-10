@@ -21,3 +21,7 @@ appstore搜索快看影视大全下载
 
 #### 6.油果浏览器
 https://apps.apple.com/cn/app/油果浏览器/id1536697835
+
+
+#### 7.追剧达人（ios）
+https://apps.apple.com/cn/app/id1659218028
