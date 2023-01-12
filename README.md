@@ -1,5 +1,5 @@
 # ios_ipa
-iOS的看影视剧软件
+iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完全退出，再第二次打开即可显示
 
 
 #### 1.大全图文识别
@@ -25,3 +25,7 @@ https://apps.apple.com/cn/app/油果浏览器/id1536697835
 
 #### 7.追剧达人（ios）
 https://apps.apple.com/cn/app/id1659218028
+
+
+#### 8.经营小店：
+https://apps.apple.com/cn/app/id6444433997
