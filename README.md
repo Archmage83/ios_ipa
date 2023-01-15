@@ -33,3 +33,6 @@ https://apps.apple.com/cn/app/id6444433997
 
 #### 9.大师兄影视 (2023.01.12更新)
 https://apps.apple.com/app/id1661466542
+
+#### 10.比赛直播 (2023.01.15更新)
+http://download.bszb000000.com?agent=tg&app=tg529
