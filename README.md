@@ -14,5 +14,5 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | 追剧达人 |https://apps.apple.com/cn/app/id1659218028|  |
 | 经营小店 |https://apps.apple.com/cn/app/id6444433997| 2023.01.12更新|
 | 大师兄影视|https://apps.apple.com/app/id1661466542|2023.01.12更新|
-| 比赛直播|http://download.bszb000000.com?agent=tg&app=tg529|2023.01.15更新 [官网链接](http://bszb000000.com)|
+| 比赛直播|http://share.bszb6688.com/?invit_code=_CKGVmyf|2023.01.15更新 [官网链接](http://bszb000000.com)|
 | 影视工厂 |https://apps.apple.com/cn/app/id1663530050 |2023.01.16更新 [官网链接](https://www.ysgc.fun) |
