@@ -19,3 +19,4 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | 醉拳影视 | https://apps.apple.com/cn/app/账号宝箱/id1643675280 | 2023.01.30更新 |
 | 肥波影视 | https://apps.apple.com/cn/app/妙游记/id1628524044 | 2023.01.30更新 |
 | 小柿子影视 | [官网链接下载](https://www.xszys.com) | 2023.02.10更新 |
+| 万能收音机 | https://apps.apple.com/cn/app/id6444694205 | 2023.02.10更新 |
