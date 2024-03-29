@@ -12,6 +12,6 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | 小黄人影视 | [appstore链接](https://apps.apple.com/us/app/id6470928090) | 反馈->输入小黄人178->提交 |
 | 大师兄影视 | [appstore链接](https://apps.apple.com/cn/app/quickmas/id6474117759) | 首页=>distance栏目=>输入大师兄=>确认后会自动重启 |
 | CZParking | [appstore链接](https://apps.apple.com/cn/app/cz-parking-records/id6473889082) | |
-| 佩奇影视 | [官网链接](http://peiqi.tv/) | 反馈-输入“皮皮真不错”-提交 |
+| 佩奇影视 | [官网链接](http://peiqi.tv/), [appstore链接](https://apps.apple.com/cn/app/id6479675583) | 反馈-输入“皮皮真不错”-提交 |
 | 书香之家 | [appstore链接](https://apps.apple.com/cn/app/id1618927630) | 点击右上角，添加网络源 `https://www.yckceo.com/yuedu/shuyuans/json/id/354.json` |
 
