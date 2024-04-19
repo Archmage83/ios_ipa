@@ -14,5 +14,5 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | CZParking | [appstore链接](https://apps.apple.com/cn/app/cz-parking-records/id6473889082) | |
 | 佩奇影视 | [官网链接](http://peiqi.tv/), [appstore链接](https://apps.apple.com/cn/app/id6479675583) | 反馈-输入“皮皮真不错”-提交 |
 | 书香之家 | [appstore链接](https://apps.apple.com/cn/app/id1618927630) | 点击右上角，添加网络源 `https://www.yckceo.com/yuedu/shuyuans/json/id/354.json` |
-| 消灭等式 | [appstore连接](https://apps.apple.com/cn/app/id6479185691) | 点击底部反馈意见 ，输入「777ys」，点击提交 |
+| 支出易管家 | [appstore连接](https://apps.apple.com/cn/app/id6479736181) | 点击底部反馈意见 ，输入「777ys」，点击提交 |
 
