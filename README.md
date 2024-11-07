@@ -18,5 +18,6 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | 数字逆袭 | [appstore连接](https://apps.apple.com/cn/app/id6480584401) | 点击意见反馈 ，输入「666」，点击提交 |
 | 网易filmly | [官网链接](https://filmly.163.com/) | 可以看各大网盘的电影 |
 | 最美证件照 | [appstore连接](https://apps.apple.com/cn/app/id6476882711) | 一键照片制作换底色 |
+| 橘子视频 | [appstore链接](https://apps.apple.com/cn/app/id6737295563) | [官网地址](https://juzi5.app/) 进入APP后点击【丝杠扭矩计算】四个框都输入【999999】。点击计算 |
 
 
