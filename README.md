@@ -20,5 +20,5 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | 最美证件照 | [appstore连接](https://apps.apple.com/cn/app/id6476882711) | 一键照片制作换底色 |
 | 橘子视频 | [appstore链接](https://apps.apple.com/cn/app/id6737295563) | [官网](https://juzi5.app/) 进入APP后点击【丝杠扭矩计算】四个框都输入【999999】。点击计算 |
 | 爱阅漫 | [appstore链接](https://apps.apple.com/cn/app/id6449724738) | 看漫画的软件 |
-
+| 好好看影视 | [官网下载描述文件](https://www.hhkan0.com) | 看影视神器 |
 
