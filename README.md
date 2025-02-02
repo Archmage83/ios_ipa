@@ -15,4 +15,4 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | 好好看影视 | [官网下载描述文件](https://www.hhkan0.com) | 看影视神器 |
 | AbcTots | [appstore链接](https://apps.apple.com/cn/app/abctots/id6504202830) | 儿童早教学习 |
 | 复古模拟器 | [appstore链接](https://apps.apple.com/cn/app/id6737550290) | NDS GBA NES 模拟器 |
-| 快看影视大全 | appstore搜索《大雁的树窝》 | 反馈 -> 输入c1 -> 提交 | 
+| 网飞猫 | appstore搜索《大雁的树窝》 | 反馈 -> 输入c1 -> 提交 | 
