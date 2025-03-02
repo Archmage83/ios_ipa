@@ -17,3 +17,4 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | 复古模拟器 | [appstore链接](https://apps.apple.com/cn/app/id6737550290) | NDS GBA NES 模拟器 |
 | 网飞猫 | appstore搜索《大雁的树窝》 | 反馈 -> 输入c1 -> 提交 | 
 | 草莓视频 | [官网链接](https://cm.dlyllwl.cn/left_arrow.png) | 下载描述文件安装 | 
+| 瓜子影视 | [官网链接](https://gzzb8.com) | 进入官网跳转链接下载 | 
