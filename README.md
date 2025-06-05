@@ -21,3 +21,4 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | 全民阅读 | [appstore链接](https://apps.apple.com/cn/app/id1528740336) | |
 | 追剧达人 | [官网链接](https://link3.cc/zhuijudaren) | |
 | 零食混塔 | [appstore链接](https://apps.apple.com/cn/app/零食混搭/id6744058879) | 反馈->输入c774 |
+| 玩球直播 | [官网地址](https://wqzb695.com/) | |
