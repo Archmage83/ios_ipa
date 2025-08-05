@@ -12,7 +12,7 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | 书香之家 | [appstore链接](https://apps.apple.com/cn/app/id1618927630) | 点击右上角，添加网络源 `https://www.yckceo.com/yuedu/shuyuans/json/id/354.json` |
 | 最美证件照 | [appstore连接](https://apps.apple.com/cn/app/id6476882711) | 一键照片制作换底色 |
 | 爱阅漫 | [appstore链接](https://apps.apple.com/cn/app/id6449724738) | 看漫画的软件 |
-| 好好看影视 | [官网下载描述文件](https://www.hhkan0.com) | 看影视神器 |
+| 好好看影视 | [官网链接](https://dl.hhkan0.com/) | 看影视神器 |
 | AbcTots | [appstore链接](https://apps.apple.com/cn/app/abctots/id6504202830) | 儿童早教学习 |
 | 复古模拟器 | [appstore链接](https://apps.apple.com/cn/app/id6737550290) | NDS GBA NES 模拟器 |
 | 网飞猫 | appstore搜索《大雁的树窝》 | 反馈 -> 输入c1 -> 提交 | 
