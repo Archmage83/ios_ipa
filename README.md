@@ -24,3 +24,4 @@ iOS的看影视剧软件，有的是马甲包，需要第一次打开后，完�
 | 玩球直播 | [官网地址](https://wqzb695.com/) | |
 | 狐狸影视 | [appstore链接](https://apps.apple.com/cn/app/%E5%BD%B1%E8%AE%B0%E6%9C%AC/id6749615601) | 搜索栏->输入b123 |
 | 小苹果影视 | [官网链接](https://ys123.app/) |  |
+| 51吃瓜网 | [官网链接](https://2b2d.oesguxrx.xyz/aff-cv8C) | 官网下载描述文件安装 |
